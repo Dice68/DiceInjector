@@ -6,7 +6,7 @@
 
 ### Современный GUI-инжектор DLL с интерфейсом в стиле зелёного терминала
 
-*Инструмент для тех, кто хочет понять, как работает Windows-процесс, руками, а не по документации*
+
 
 [![C#](https://img.shields.io/badge/C%23-.NET%2010-512BD4?logo=csharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-Win32%20GDI%2B-00599C?logo=cplusplus&logoColor=white)]()
